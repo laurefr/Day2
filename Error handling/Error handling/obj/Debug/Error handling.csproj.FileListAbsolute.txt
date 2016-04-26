@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Csharp\Day2\Error handling\Error handling\bin\Debug\Error handling.exe.config
+C:\Users\student\Documents\GitHub\Csharp\Day2\Error handling\Error handling\bin\Debug\Error handling.exe
+C:\Users\student\Documents\GitHub\Csharp\Day2\Error handling\Error handling\bin\Debug\Error handling.pdb
+C:\Users\student\Documents\GitHub\Csharp\Day2\Error handling\Error handling\obj\Debug\Error handling.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Csharp\Day2\Error handling\Error handling\obj\Debug\Error handling.exe
+C:\Users\student\Documents\GitHub\Csharp\Day2\Error handling\Error handling\obj\Debug\Error handling.pdb

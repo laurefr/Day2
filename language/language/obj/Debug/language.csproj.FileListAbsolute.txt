@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\Csharp\language\language\bin\Debug\language.exe.config
+C:\Users\student\Documents\GitHub\Csharp\language\language\obj\Debug\language.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Csharp\language\language\bin\Debug\language.exe
+C:\Users\student\Documents\GitHub\Csharp\language\language\bin\Debug\language.pdb
+C:\Users\student\Documents\GitHub\Csharp\language\language\obj\Debug\language.exe
+C:\Users\student\Documents\GitHub\Csharp\language\language\obj\Debug\language.pdb
